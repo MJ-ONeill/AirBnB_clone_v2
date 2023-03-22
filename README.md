@@ -1,18 +1,8 @@
-# AirBnB_clone_v2
-<p align="center">
-  <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
-</p>
+A multiple bit by bit project to create AirBnB clone.
 
-<h1 align="center">AirBnB</h1>
-<p align="center">An AirBnB clone.</p>
-
----
-## Description :alx:
-
-ALXBnB is a complete web application, integrating database storage,
-a back-end API, and front-end interfacing in a clone of AirBnB.
-
-The project currently only implements the back-end console.
-
-## Authors:
-* MJ O'Neill [MJ-ONeill]
+1st part: console
+2nd part: Web static
+3rd part: MySQL storage
+4th part: Web framework templating
+5th part: RESTful API
+6th part: Web dynamic
